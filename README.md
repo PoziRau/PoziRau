@@ -4,11 +4,7 @@
   <a href="https://www.youtube.com/channel/UC0BletW9phE4xHFM44q4qKA"><img src="juice.gif" alt="juice Banner"></a>
 </p>
 
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
-
-<p align="center">
-  <a href="https://github.com/PoziRau"><img src="https://github-readme-stats.vercel.app/api?username=PoziRau&hide_border=true&show_icons=true" alt="pozirau's github stats"></a>
-</p>
+<h1 align="center"></h1>
 
 <p align="center">
   <strong><a href="https://twitter.com/poziirau">Twitter</a></strong> |
