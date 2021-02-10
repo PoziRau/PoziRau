@@ -43,11 +43,5 @@ I'm  Good at Everything
 <p align="center">Hewe is my discawd<br>
 ووو#9999 >~< xoxox</p>
 </div>
-<div>
-<h2 align="center">Thanks for Reading step bro</h2>
-<div align="center">
-</div>
-<hr>
-</div>
 </div>
 </body>
