@@ -2,11 +2,11 @@
 <h1 align="center">👋 Hey there! I'm PoziRau. 👋</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://cdn.discordapp.com/attachments/740767954354044998/808913597672587274/tenor_1.gif">
 </div>
 <br>
 <div>
-<h2 align="center">About Me</h2>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <img src="https://media.tenor.com/images/66cf2574f15296d965558cfc78244ed6/tenor.gif" align="right">
 <li>
 <b>Name:</b> PoziRau</li>
@@ -27,7 +27,7 @@
                   verwy cuwute of chu</b></p>
 </div>
 <div>
-<h2 align="left">Knowledge</h2>
+<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <img src="https://media2.giphy.com/media/SwlljYjZ9ZgEETTsP6/200.gif" align="right">
 </div>
@@ -37,7 +37,7 @@
 I'm  Good at Everything
 </p>
 <br>
-<h2> Contact Me</h2>
+<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
 <p align="center">Hewe awe some of my <br>
