@@ -2,12 +2,12 @@
 <h1 align="center">👋 Hey there! I'm PoziRau. 👋</h1>
 <br>
 <div align="center">
-<img src="https://imgur.com/4AIjqUW.gif">
+<img src="https://media1.tenor.com/images/fb99594371dc87c7fccfd112c79ee715/tenor.gif?itemid=19961377">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://i.imgur.com/fJdtZJk.mp4" align="right">
+<img src="https://media.tenor.com/images/66cf2574f15296d965558cfc78244ed6/tenor.gif" align="right">
 <li>
 <b>Name:</b> PoziRau</li>
 <li>
