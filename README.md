@@ -2,12 +2,12 @@
 <h1 align="center">👋 Hey there! I'm PoziRau. 👋</h1>
 <br>
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/740767954354044998/808913597672587274/tenor_1.gif">
+<img src="https://imgur.com/4AIjqUW.gif">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://imgur.com/4AIjqUW" align="right">
+<img src="https://i.imgur.com/fJdtZJk.mp4" align="right">
 <li>
 <b>Name:</b> PoziRau</li>
 <li>
@@ -40,9 +40,8 @@ I'm  Good at Everything
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/poziirau" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.io/undermining" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">Hewe is my discawd<br>
+ووو#9999 >~< xoxox</p>
 </div>
 <div>
 <h2 align="center">Thanks for Reading step bro</h2>
