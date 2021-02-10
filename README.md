@@ -1,8 +1,9 @@
+<h1 align="center">Hi, I'm <a href="https://github.com/PoziRau">PoziRau</a>!</h1>
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UC0BletW9phE4xHFM44q4qKA"><img src="juice.gif" alt="juice Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://github.com/PoziRau">PoziRau</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
