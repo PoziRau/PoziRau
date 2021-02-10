@@ -1,47 +1,33 @@
-<body>
-<h1 align="center">👋 Hey there! I'm PoziRau. 👋</h1>
-<br>
-<div align="center">
-<img src="https://im7.ezgif.com/tmp/ezgif-7-e238163d3c5d.gif">
-</div>
-<br>
-<div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://im3.ezgif.com/tmp/ezgif-3-6f3daa8495f7.gif" align="right">
-<li>
-<b>Name:</b> PoziRau</li>
-<li>
-<b>Loves:</b> you! and donuts and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> He/Him or Nor/mal 😜
-</li>
-<li>
-<b>Hobbys:</b> Programming, Music
-</li>
-<li>
-<b>Working @:</b> Everything
-</li>
-<br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
-<img src="https://media2.giphy.com/media/SwlljYjZ9ZgEETTsP6/200.gif" align="right">
-</div>
-<div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-I'm  Good at Everything
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC0BletW9phE4xHFM44q4qKA"><img src="juice.gif" alt="juice Banner"></a>
 </p>
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-<br>
-<p align="center">Hewe is my discawd<br>
-ووو#9999 >~< xoxox</p>
-</div>
-</div>
-</body>
+
+<h1 align="center">Hi, I'm <a href="https://github.com/PoziRau">PoziRau</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+<p align="center">
+  <a href="https://github.com/PoziRau"><img src="https://github-readme-stats.vercel.app/api?username=PoziRau&hide_border=true&show_icons=true" alt="pozirau's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://twitter.com/poziirau">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/GSTej28s86">Discord</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/pozirau">LinkedIn</a></strong> |
+</p>
+
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
+<!--
+**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
