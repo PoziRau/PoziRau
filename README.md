@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://media.tenor.com/images/66cf2574f15296d965558cfc78244ed6/tenor.gif" align="right">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-ceeff9c49878.gif" align="right">
 <li>
 <b>Name:</b> PoziRau</li>
 <li>
